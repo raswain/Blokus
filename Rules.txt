@@ -1,0 +1,9 @@
+The goal of the game is to fill the board up as much as possible with your color.
+Blue starts and green follows
+The only rule for laying down pieces is that each piece that is placed on the board must 
+touch the corner of another piece on the board of the same color. Pieces cannot touch along the sides
+
+You can cycle through shapes by scrolling the mouse wheel on the shape when it is your turn
+You can rotate a shape by right clicking on it
+
+Have fun!
