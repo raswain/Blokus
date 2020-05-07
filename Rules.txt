@@ -1,5 +1,8 @@
 The goal of the game is to fill the board up as much as possible with your color.
 Blue starts and green follows
+
+The first piece by each color has to be layed on the circled board pieces
+
 The only rule for laying down pieces is that each piece that is placed on the board must 
 touch the corner of another piece on the board of the same color. Pieces cannot touch along the sides
 
